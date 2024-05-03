@@ -1,11 +1,11 @@
 <H3>Education</H3>
-<p class="p3">2023-2025 <span>Certificate Applied Computer Sciences</span></p>
-          <p class="p2">Universit&eacute; de Montr&eacute;al </p>
+<p>2023-2025 <span>Certificate Applied Computer Sciences</span></p>
+          <p>Universit&eacute; de Montr&eacute;al </p>
 
-          <p class="p3">2021-2023 <span>Certificate System Administration</span></p>
-          <p class="p2">Universit&eacute; de Montr&eacute;al </p>
-          <p class="p3">2005-2008 <span>Bachelor Applied Mathematics</span></p>
-          <p class="p2">Universi&eacute; de Toulon (France)</p>
+          <p>2021-2023 <span>Certificate System Administration</span></p>
+          <p>Universit&eacute; de Montr&eacute;al </p>
+          <p>2005-2008 <span>Bachelor Applied Mathematics</span></p>
+          <p>Universi&eacute; de Toulon (France)</p>
 <H3>Work Experience</H3>
 <H3>Project Portfolio</H3>
 
