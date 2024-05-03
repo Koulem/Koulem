@@ -10,26 +10,26 @@
 <p>Jan 2023 - Now <span>Senior Financial Advisor</span></p>
           <p>Scotia Bank</p>
        
-          <li>Investment (RRSP, TFSA, FHSA ...)</li>
-          <li>Credit (Mortgage, Business and personal loan...)</li>
+          <p>Investment (RRSP, TFSA, FHSA ...)</p>
+          <p>Credit (Mortgage, Business and personal loan...)</p>
        
 
           <p>Jan 2022 - Jan 2023 <span>Credit Analyst</span></p>
           <p>Bank of Montreal</p>
-          <li>Research, validate income and historical credit data</li>
-          <li>Analyze Credit and adjudicate (Personal Credit)</li>
+          <p>Research, validate income and historical credit data</p>
+          <p>Analyze Credit and adjudicate (Personal Credit)</p>
           
 
           <p>Jul 2019 - Oct 2021 <span>Manager Personal Financial Advisor</span></p>
           <p>TD Bank</p>
-          <li>Investment (RRSP, TFSA ...)</li>
-          <li>Credit (Mortgage, Business and personal loan...)</li>
+          <p>Investment (RRSP, TFSA ...)</p>
+          <p>Credit (Mortgage, Business and personal loan...)</p>
           
 
           <p>March 2016 - Jul 2019 <span>Finanacial Services Representative</span></p>
           <p>TD Bank</p>
-          <li>Investment (RRSP, TFSA ...)</li>
-          <li>Credit (Mortgage, Business and personal loan...)</li>
+          <p>Investment (RRSP, TFSA ...)</p>
+          <p>Credit (Mortgage, Business and personal loan...)</p>
 
 <H3>Project Portfolio</H3>
 
