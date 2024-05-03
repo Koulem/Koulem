@@ -6,6 +6,33 @@
           <p>2005-2008 <span>Bachelor Applied Mathematics</span></p>
           <p>Universi&eacute; de Toulon (France)</p>
 <H3>Work Experience</H3>
+<p>Jan 2023 - Now <span>Senior Financial Advisor</span></p>
+          <p>Scotia Bank</p>
+          <ul>
+            <li>Investment (RRSP, TFSA, FHSA ...)</li>
+            <li>Credit (Mortgage, Business and personal loan...)</li>
+          </ul>
+
+          <p>Jan 2022 - Jan 2023 <span>Credit Analyst</span></p>
+          <p>Bank of Montreal</p>
+          <ul>
+            <li>Research, validate income and historical credit data</li>
+            <li>Analyze Credit and adjudicate (Personal Credit)</li>
+          </ul>
+
+          <p>Jul 2019 - Oct 2021 <span>Manager Personal Financial Advisor</span></p>
+          <p>TD Bank</p>
+          <ul>
+            <li>Investment (RRSP, TFSA ...)</li>
+            <li>Credit (Mortgage, Business and personal loan...)</li>
+          </ul>
+
+          <p>March 2016 - Jul 2019 <span>Finanacial Services Representative</span></p>
+          <p class="p2">TD Bank</p>
+          <ul>
+            <li>Investment (RRSP, TFSA ...)</li>
+            <li>Credit (Mortgage, Business and personal loan...)</li>
+          </ul>
 <H3>Project Portfolio</H3>
 
 <!--
