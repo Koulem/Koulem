@@ -1,4 +1,4 @@
-<li>1.</li><H3>Education</H3>
+<H3><li>1.</li>Education</H3>
 <li>2.</li><H3>Work Experience</H3>
 <li>3.</li><H3>Project Portfolio</H3>
 
