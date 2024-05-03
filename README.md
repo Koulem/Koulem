@@ -1,6 +1,6 @@
-<li>1.</li><H1>Education</H1>
-<li>2.</li><H1>Work Experience</H1>
-<li>3.</li><H1>Project Portfolio</H1>
+<li>1.</li><H3>Education</H3>
+<li>2.</li><H3>Work Experience</H3>
+<li>3.</li><H3>Project Portfolio</H3>
 
 <!--
 **Koulem/Koulem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
