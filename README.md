@@ -28,7 +28,7 @@
           </ul>
 
           <p>March 2016 - Jul 2019 <span>Finanacial Services Representative</span></p>
-          <p class="p2">TD Bank</p>
+          <p>TD Bank</p>
           <ul>
             <li>Investment (RRSP, TFSA ...)</li>
             <li>Credit (Mortgage, Business and personal loan...)</li>
