@@ -1,7 +1,6 @@
 <H3>Education</H3>
 <p>2023-2025 <span>Certificate Applied Computer Sciences</span></p>
           <p>Universit&eacute; de Montr&eacute;al </p>
-
           <p>2021-2023 <span>Certificate System Administration</span></p>
           <p>Universit&eacute; de Montr&eacute;al </p>
           <p>2005-2008 <span>Bachelor Applied Mathematics</span></p>
