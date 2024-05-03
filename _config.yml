@@ -1,6 +1,6 @@
 title: Mamadou Koulemou
-#logo:/assets/img/headshot_circle.png
+logo:https://github.com/Koulem/Koulem/issues/1#issue-2277983369
 #description: text below image
-show_downloads:true
-theme:jekill-theme-min  imal
+show_downloads:false
+theme:jekill-theme-minimal
 #https://pages.github.com/themes
