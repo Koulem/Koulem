@@ -1,15 +1,18 @@
 <H3>Hi, I am Mamadou</H3>
 <p>
-I enjoy learning, searching solution and solving problem. I am perseverant and I am positive person. Aventurious, 
-I am always open to explore new ideas to advance project. I am quick learner and self-motivated person. 
+I enjoy learning, searching solution and solving problem. I am perseverant and 
+I am positive person. Aventurious, I am always open to explore new ideas to advance project. 
+I am quick learner and self-motivated person. 
 </p>
 
 <H4>Education</H4>
-<p><span>Certificate Applied Computer Sciences</span>          2023-2025</p>
+<p><span>Certificate Applied Computer Sciences</span>             2023-2025</p>
           <p>Universit&eacute; de Montr&eacute;al </p>
-          <p>2021-2023 <span>Certificate System Administration</span></p>
+          <p>Certificate System Administration                    2021-2023</p>
           <p>Universit&eacute; de Montr&eacute;al </p>
-          <p>2005-2008 <span>Bachelor Applied Mathematics</span></p>
+          <p>Master Degree In Finanace                            2008-2010</p>
+          <p>IAE (Institut d'Administration des Entreprises) de Toulon (France)</p>
+          <p>Bachelor Degree in Applied Mathematics               2005-2008</p>
           <p>Universi&eacute; de Toulon (France)</p>
           
 <H4>Work Experience</H4>
@@ -18,7 +21,7 @@ I am always open to explore new ideas to advance project. I am quick learner and
           <p>Investment And Personal loan Product</p>
 <p> <span>Credit Analyst</span>                            Jan 2022 - Jan 2023</p>
           <p>Bank of Montreal</p>
-          <p>Research, income Information validation  and historical credit data Analysis</p>
+          <p>Research,validate and analyze historical credit data</p>
           <p>Credit aAnalysis and adjudication </p>
 <p><span>Manager Personal Financial Advisor</span>          Jul 2019 - Oct 2021 </p>
           <p>TD Bank</p>
